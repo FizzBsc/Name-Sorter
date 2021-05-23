@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Name_Sorter
+﻿namespace Name_Sorter
 {
     //thrown exception for invalid file name
     public class InvalidFileException : System.Exception
