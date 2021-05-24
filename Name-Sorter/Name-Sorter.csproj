@@ -6,7 +6,6 @@
     <RootNamespace>Name_Sorter</RootNamespace>
     <Authors>Hafiz</Authors>
     <StartupObject>Name_Sorter.Program</StartupObject>
-	  <NoWarn>1701</NoWarn>
   </PropertyGroup>
 
 </Project>
